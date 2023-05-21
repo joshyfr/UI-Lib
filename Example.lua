@@ -1,6 +1,6 @@
 -- Example of use of the UI Library
 
-local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/reassignment/Roblox-UI-Library/main/UILib.lua"))();
+local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/joshyfr/UI-Lib/main/UILib.lua"))();
 
 lib:SetTitle("Hub Name - Game")
 
