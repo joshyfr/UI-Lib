@@ -1,4 +1,5 @@
-local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/VisualRoblox/Roblox/main/UI-Libraries/Visual%20UI%20Library/Source.lua'))()
+local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/joshyfr/UI-Lib/main/UILib.lua'))()
+
 
 local Window = Library:CreateWindow('Hub Name', 'Game Name', 'Loading Text', 'rbxassetid://10618928818', false, 'VisualUIConfigs', 'Default')
 
